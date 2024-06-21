@@ -1,5 +1,4 @@
 {
-    "conventionalCommits.scopes": [
-        "file system"
-    ]
+  "conventionalCommits.scopes": ["file system"],
+  "python.analysis.typeCheckingMode": "basic"
 }
